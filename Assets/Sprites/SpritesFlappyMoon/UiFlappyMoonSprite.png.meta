@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: ef4143ce82ab2314bb49ab2b34bbcfa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3630273213229204868
+    second: UiFlappyMoonSprite_0
+  - first:
+      213: -8444100860909677487
+    second: UiFlappyMoonSprite_1
+  - first:
+      213: -1785161909290121143
+    second: UiFlappyMoonSprite_2
+  - first:
+      213: 2520016751133568164
+    second: UiFlappyMoonSprite_3
+  - first:
+      213: -118677666231260679
+    second: UiFlappyMoonSprite_4
+  - first:
+      213: 449051458226229951
+    second: UiFlappyMoonSprite_5
+  - first:
+      213: 3877794303860474056
+    second: UiFlappyMoonSprite_6
+  - first:
+      213: 6551574844639614333
+    second: UiFlappyMoonSprite_7
+  - first:
+      213: 5758388953666912558
+    second: UiFlappyMoonSprite_8
+  - first:
+      213: 5016551449859546899
+    second: UiFlappyMoonSprite_9
+  - first:
+      213: -9078227457219379061
+    second: UiFlappyMoonSprite_10
+  - first:
+      213: 3642210188732711149
+    second: UiFlappyMoonSprite_11
+  - first:
+      213: -3620025016305825839
+    second: UiFlappyMoonSprite_12
+  - first:
+      213: 516934950261842721
+    second: UiFlappyMoonSprite_13
+  - first:
+      213: -5589345542367194473
+    second: UiFlappyMoonSprite_14
+  - first:
+      213: -2024284130701733604
+    second: UiFlappyMoonSprite_15
+  - first:
+      213: -5251309736223585138
+    second: UiFlappyMoonSprite_16
+  - first:
+      213: 6327649645202942465
+    second: UiFlappyMoonSprite_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4858420e042516230800000000000000
+      internalID: 3630273213229204868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 80, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9484432a3b4d937e0800000000000000
+      internalID: -1785161909290121143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aca95f22e5e8f220800000000000000
+      internalID: 2520016751133568164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c003a9bf51b0d530800000000000000
+      internalID: 3877794303860474056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 103
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7511260c9edbea50800000000000000
+      internalID: 6551574844639614333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 91
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80cd36e938a30280800000000000000
+      internalID: -9078227457219379061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d740196d6613cdc0800000000000000
+      internalID: -3620025016305825839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123675239958c2700800000000000000
+      internalID: 516934950261842721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 17
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7925a44c7d7ae62b0800000000000000
+      internalID: -5589345542367194473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c111019ee4c48e3e0800000000000000
+      internalID: -2024284130701733604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc7d61e999f17b0800000000000000
+      internalID: -5251309736223585138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aa275b3d350d750800000000000000
+      internalID: 6327649645202942465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b072ae30786fe41ba8df08c912223c
+      internalID: -8444100860909677487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiFlappyMoonSprite_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16455cfec699592409c9d0d96a1ad24c
+      internalID: -118677666231260679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7783e9fbd53be84d8a672fcac2e14fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UiFlappyMoonSprite_0: 3630273213229204868
+      UiFlappyMoonSprite_1: -8444100860909677487
+      UiFlappyMoonSprite_10: -9078227457219379061
+      UiFlappyMoonSprite_11: 3642210188732711149
+      UiFlappyMoonSprite_12: -3620025016305825839
+      UiFlappyMoonSprite_13: 516934950261842721
+      UiFlappyMoonSprite_14: -5589345542367194473
+      UiFlappyMoonSprite_15: -2024284130701733604
+      UiFlappyMoonSprite_16: -5251309736223585138
+      UiFlappyMoonSprite_17: 6327649645202942465
+      UiFlappyMoonSprite_2: -1785161909290121143
+      UiFlappyMoonSprite_3: 2520016751133568164
+      UiFlappyMoonSprite_4: -118677666231260679
+      UiFlappyMoonSprite_5: 449051458226229951
+      UiFlappyMoonSprite_6: 3877794303860474056
+      UiFlappyMoonSprite_7: 6551574844639614333
+      UiFlappyMoonSprite_8: 5758388953666912558
+      UiFlappyMoonSprite_9: 5016551449859546899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
